@@ -20,7 +20,7 @@ def add_student(name, student_id=121):
 
 
 student_name = input("Enter the student name :")
-student_id = input("Enter the student name :")
+student_id = input("Enter the student id :")
 add_student(student_name, student_id)
 print_students_titlecase()
 
